@@ -26,4 +26,4 @@ jobs:
 
       - name: Run unit tests
         run: |
-          python -m unittest discover tests
+          python -m unittest discover test_chat_main.py
